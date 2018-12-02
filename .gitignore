@@ -1,0 +1,8 @@
+data/glove.840B.300d
+data/GoogleNews-vectors-negative300
+data/paragram_300_sl999
+data/wiki-news-300d-1M
+data/*.zip
+data/*.csv
+venv
+.idea
